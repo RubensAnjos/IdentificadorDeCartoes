@@ -19,7 +19,6 @@ Um script Python para identificar a bandeira de cartões de crédito/débito com
 | Discover         | 16         | 6011, 644-649, 65                 |
 | Diners Club      | 14         | 300-305, 36, 38-39                |
 | JCB              | 16         | 35                                |
-| Elo              | 16         | 4011, 4312, 4389, 4514, 4573, 504, 506, 509, 627, 636, 650, 6516, 6550 |
 | Hipercard        | 16         | 3841, 606282                      |
 | EnRoute          | 15         | 2014, 2149                        |
 | Voyager          | 15         | 8699                              |
